@@ -1,0 +1,1 @@
+export const ASYNC_STORAGE_KEY_NOTES: string = 'ASYNC_STORAGE_KEY_NOTES';
