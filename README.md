@@ -1,29 +1,21 @@
-# README #
+# README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Example project to make any app (React Native or Expo) to work online and offline mode, and sync automatically data between local and remote data implementing Nexus Sync library
 
-### What is this repository for? ###
+# Tutorial
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ipds_D6mids/0.jpg)](https://www.youtube.com/watch?v=ipds_D6mids)
 
-### How do I get set up? ###
+# Links
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Commands used:
+`yarn add react-native-nexus-sync`
 
-### Contribution guidelines ###
+Example project:
+https://github.com/Elezero/react-native-example-nexus
 
-* Writing tests
-* Code review
-* Other guidelines
+NEXUS SYNC npm:
+https://www.npmjs.com/package/react-native-nexus-sync
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+NEXUS SYNC Github:
+https://github.com/Elezero/react-native-nexus-sync
